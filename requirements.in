@@ -1,0 +1,5 @@
+pip-tools
+dearpygui==1.11.1
+lauterbach-trace32-rcl==1.0.9
+pycdlib
+click
